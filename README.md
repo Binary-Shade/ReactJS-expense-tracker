@@ -9,7 +9,7 @@ The ReactJS Expense Tracker is a web application built using Vite that helps use
 - **Delete Transactions**: Remove transactions that are no longer relevant.
 - **Transaction Summary**: View a summary of your total income, expenses, and balance.
 - **Charts**: Visualize your financial data through interactive charts.
-- **Local Storage**: Persist data in the browser's local storage so your data is saved between sessions.
+- **Local Storage**: Persist data in the browser's local storage so your data is saved between sessions..
 
 ## Technologies Used
 - **React**: JavaScript library for building user interfaces.

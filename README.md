@@ -15,9 +15,9 @@ The ReactJS Expense Tracker is a web application built using Vite that helps use
 - **React**: JavaScript library for building user interfaces.
 - **Vite**: Fast build tool and development server.
 - **Context API**: State management.
-- **CSS**: Styling the application.
-- **Chart.js**: Visualizing data in the form of charts.
-- **LocalStorage**: Storing data locally in the browser.
+- **CSS**: Styling the application..
+- **Chart.js**: Visualizing data in the form of charts..
+- **LocalStorage**: Storing data locally in the browser..
 
 ## Installation
 To get started with the project, follow these steps:

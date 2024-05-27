@@ -104,4 +104,4 @@ For any questions or suggestions, feel free to reach out:
 
 ---
 
-Thank you for using the ReactJS Expense Tracker! Your feedback and contributions are highly appreciated.
+Thank you for using the ReactJS Expense Tracker! Your feedback and contributions are highly appreciated....

@@ -4,7 +4,7 @@
 The ReactJS Expense Tracker is a web application built using Vite that helps users manage their personal finances by tracking income and expenses. The application provides an intuitive interface for adding, editing, and deleting transactions, and visualizes financial data through charts and summaries..
 
 ## Features
-- **Add Transactions**: Easily add income and expense transactions.
+- **Add Transactions**: Easily add income and expense.
 - **Edit Transactions**: Modify existing transactions as needed.
 - **Delete Transactions**: Remove transactions that are no longer relevant.
 - **Transaction Summary**: View a summary of your total income, expenses, and balance.
